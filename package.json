@@ -15,11 +15,14 @@
   },
   "scripts": {
     "start": "react-scripts start",
-    "build": "CI=false npx react-scripts build",
+    "build": "node node_modules/react-scripts/bin/react-scripts.js build",
     "test": "react-scripts test"
   },
   "browserslist": {
     "production": [">0.2%", "not dead", "not op_mini all"],
     "development": ["last 1 chrome version", "last 1 firefox version", "last 1 safari version"]
+  },
+  "engines": {
+    "node": ">=16.0.0"
   }
 }
