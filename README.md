@@ -1,10 +1,10 @@
-# 🎓 Smart Admission AI Predictor — Frontend
+#  Smart Admission AI Predictor — Frontend
 
 A professional, production-grade React frontend for the Smart Admission AI Predictor platform.
 
 ---
 
-## 🚀 Quick Start
+##  QuickStart
 
 ```bash
 # 1. Navigate to the frontend folder
@@ -23,7 +23,7 @@ npm start
 
 ---
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 smart-admission-ai/
