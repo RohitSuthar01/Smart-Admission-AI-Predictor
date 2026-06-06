@@ -56,7 +56,7 @@ smart-admission-ai/
 
 ---
 
-## 🎨 Design System
+##  Design System
 
 | Token | Value | Usage |
 |-------|-------|-------|
@@ -70,7 +70,7 @@ smart-admission-ai/
 
 ---
 
-## 📄 Pages & Features
+##  Pages & Features
 
 | Page | Route Key | Features |
 |------|-----------|----------|
@@ -89,7 +89,7 @@ smart-admission-ai/
 
 ---
 
-## 🤖 AI Chatbot Setup
+##  AI Chatbot Setup
 
 The chatbot uses the **Anthropic Claude API** directly from the browser.
 
@@ -119,7 +119,7 @@ Then update `AIChatbot.jsx` to call `/api/chat` instead of the Anthropic URL dir
 
 ---
 
-## 🔗 Backend Integration Points
+##  Backend Integration Points
 
 Replace these mock functions with real API calls:
 
@@ -139,7 +139,7 @@ const { data } = await axios.get('/api/student/stats');
 
 ---
 
-## 📦 Dependencies
+##  Dependencies
 
 | Package | Version | Purpose |
 |---------|---------|---------|
