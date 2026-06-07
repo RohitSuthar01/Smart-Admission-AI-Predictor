@@ -4,7 +4,7 @@ A professional, production-grade React frontend for the Smart Admission AI Predi
 
 ---
 
-##  QuickStart
+## QuickStart
 
 ```bash
 # 1. Navigate to the frontend folder
